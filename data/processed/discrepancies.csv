@@ -1,0 +1,9 @@
+season,flags,ut_page,bg_page,cfbd,resolved
+1924,site_UT_vs_BG,"Saturday, October 25 | Away Bowling Green, OH | W 12-7","Saturday, October 25 | Away Toledo, OH | L 7-12",,host=Bowling Green (unresolved); score UT 12-7 (agree)
+1933,score_UT_vs_BG;date_UT_vs_BG,"Saturday, October 28 | Home Glass Bowl | W 25-7","Friday, October 27 | Away Toledo, OH | L 7-26",,host=Toledo (agree); score UT 25-7 (unresolved)
+1935,date_UT_vs_BG,"Friday, November 1 | Home Glass Bowl | W 63-0","Saturday, November 2 | Away Toledo, OH | L 0-63",,host=Toledo (agree); score UT 63-0 (agree)
+1967,site_UT_vs_BG;site_UT_vs_CFBD,"Saturday, October 14 | Home Bowling Green, OH | W 33-0","Saturday, October 14 | Home Bowling Green, Ohio | L 0-33",1967-10-14 | UT home=False | UT 33-0,host=Bowling Green (majority); score UT 33-0 (agree)
+1968,site_UT_vs_CFBD,"Saturday, October 12 | Home Glass Bowl | T 0-0","Saturday, October 12 | Away Toledo, OH | T 0-0",1968-10-12 | UT home=False | UT 0-0,host=Toledo (majority); score UT 0-0 (agree)
+1969,date_UT_vs_BG,"Friday, October 10 | Away Bowling Green, OH | W 27-26","Saturday, October 11 | Home Bowling Green, Ohio | L 26-27",1969-10-11 | UT home=False | UT 27-26,host=Bowling Green (agree); score UT 27-26 (agree)
+1981,site_UT_vs_BG,"Saturday, October 24 | Away Bowling Green, OH | L 0-38","Saturday, October 24 | Away Toledo, OH | W 38-0",1981-10-24 | UT home=False | UT 0-38,host=Bowling Green (majority); score UT 0-38 (agree)
+2000,score_UT_vs_BG;score_BG_vs_CFBD,"Wednesday, November 22 | Home Toledo, OH | W 51-17","Wednesday, November 22 | Away Toledo, Ohio | L 20-54",2000-11-22 | UT home=True | UT 51-17,host=Toledo (agree); score UT 51-17 (majority)

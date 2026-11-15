@@ -1,0 +1,21 @@
+game_id,season,week,date,home,away,neutral,conf_game,home_pts,away_pts,home_1h,away_1h,home_spread,total_line,recv_1h,recv_2h,same_receiver,q3_first_drive_result,q3_first_drive_pts,m8_recv2h,m8_other,home_elo,away_elo,receiver_ok,points_ok
+253260189,2005,13,2005-11-23,Bowling Green,Toledo,False,True,41,44,7,7,,,Bowling Green,Toledo,False,FG GOOD,3,10,0,1595,1503,True,False
+263252649,2006,13,2006-11-22,Toledo,Bowling Green,False,True,31,21,21,7,,,Toledo,Bowling Green,False,PUNT,0,7,0,1329,1261,True,False
+273270189,2007,13,2007-11-23,Bowling Green,Toledo,False,True,37,10,16,3,,,Toledo,Toledo,True,PASSING TD,7,7,14,1339,1381,False,False
+283332649,2008,14,2008-11-28,Toledo,Bowling Green,False,True,10,38,0,17,,,Bowling Green,Toledo,False,FG GOOD,3,0,3,1263,1425,True,False
+293310189,2009,13,2009-11-27,Bowling Green,Toledo,False,True,38,24,24,14,,,Toledo,Bowling Green,False,PUNT,0,0,7,1460,1211,True,True
+303212649,2010,12,2010-11-18,Toledo,Bowling Green,False,True,33,14,26,7,,,Toledo,Bowling Green,False,TURNOVER ON DOWNS,0,7,26,1303,1240,True,False
+312880189,2011,7,2011-10-15,Bowling Green,Toledo,False,True,21,28,7,0,,,Toledo,Bowling Green,False,PUNT,0,7,0,1232,1553,True,False
+322592649,2012,3,2012-09-15,Toledo,Bowling Green,False,True,27,15,17,3,,,Bowling Green,Toledo,False,RUSHING TD,7,7,3,1552,1328,True,True
+332990189,2013,9,2013-10-26,Bowling Green,Toledo,False,True,25,28,7,21,,,Bowling Green,Toledo,False,FUMBLE,0,0,7,1491,1500,True,True
+400548159,2014,13,2014-11-20,Toledo,Bowling Green,False,True,27,20,13,10,,,Toledo,Bowling Green,False,PUNT,0,0,0,1447,1442,True,False
+400787356,2015,12,2015-11-17,Bowling Green,Toledo,False,True,28,44,14,30,,,Bowling Green,Toledo,False,INT,0,7,14,1757,1662,True,True
+400945022,2017,12,2017-11-16,Bowling Green,Toledo,False,True,37,66,21,24,,,Bowling Green,Toledo,False,TD,7,10,0,1179,1583,True,False
+401020751,2018,6,2018-10-06,Toledo,Bowling Green,False,True,52,36,24,21,,,Toledo,Bowling Green,False,PUNT,0,0,0,1483,1038,True,True
+401119280,2019,7,2019-10-12,Bowling Green,Toledo,False,True,20,7,17,7,,,Bowling Green,Toledo,False,DOWNS,0,0,0,899,1514,True,True
+401249858,2020,10,2020-11-05,Toledo,Bowling Green,False,True,38,3,21,0,,,Bowling Green,Toledo,False,FUMBLE,0,0,0,1273,1051,True,True
+401309585,2021,11,2021-11-11,Bowling Green,Toledo,False,True,17,49,10,35,,,Bowling Green,Toledo,False,TD,7,14,0,1080,1497,True,False
+401416642,2022,12,2022-11-16,Toledo,Bowling Green,False,True,35,42,14,21,,,Toledo,Bowling Green,False,FG,3,3,7,1549,1096,True,True
+401532443,2023,12,2023-11-15,Bowling Green,Toledo,False,True,31,32,28,10,,,Toledo,Bowling Green,False,PUNT,0,7,7,1342,1561,True,True
+401644754,2024,9,2024-10-26,Toledo,Bowling Green,False,True,26,41,20,28,,,Toledo,Bowling Green,False,PUNT,0,8,10,1518,1410,True,False
+401762835,2025,7,2025-10-11,Bowling Green,Toledo,False,True,28,23,7,21,,,Toledo,Bowling Green,False,PUNT,0,7,7,1411,1562,True,False

@@ -1,0 +1,91 @@
+game_no,season,date_ut_page,date_bg_page,host,ut_pts,bg_pts,result,ot,score_status,site_status,flags,ut_net,cum_net
+1,1919,"Friday, October 3","Friday, October 3",Bowling Green,6,0,W,,agree,agree,,1,1
+2,1921,"Saturday, October 29","Saturday, October 29",Toledo,7,20,L,,agree,agree,,-1,0
+3,1922,"Saturday, November 4","Saturday, November 4",Bowling Green,6,6,T,,agree,agree,,0,0
+4,1923,"Saturday, October 27","Saturday, October 27",Toledo,27,0,W,,agree,agree,,1,1
+5,1924,"Saturday, October 25","Saturday, October 25",Bowling Green,12,7,W,,agree,unresolved,site_UT_vs_BG,1,2
+6,1928,"Saturday, October 20","Saturday, October 20",Bowling Green,0,14,L,,agree,agree,,-1,1
+7,1929,"Saturday, October 26","Saturday, October 26",Toledo,0,0,T,,agree,agree,,0,1
+8,1930,"Saturday, November 1","Saturday, November 1",Bowling Green,0,0,T,,agree,agree,,0,1
+9,1932,"Saturday, November 5","Saturday, November 5",Bowling Green,6,12,L,,agree,agree,,-1,0
+10,1933,"Saturday, October 28","Friday, October 27",Toledo,25,7,W,,unresolved,agree,score_UT_vs_BG;date_UT_vs_BG,1,1
+11,1934,"Saturday, November 3","Saturday, November 3",Bowling Green,22,0,W,,agree,agree,,1,2
+12,1935,"Friday, November 1","Saturday, November 2",Toledo,63,0,W,,agree,agree,date_UT_vs_BG,1,3
+13,1948,"Saturday, October 9","Saturday, October 9",Toledo,6,21,L,,agree,agree,,-1,2
+14,1949,"Saturday, October 8","Saturday, October 8",Toledo,20,19,W,,agree,agree,,1,3
+15,1950,"Saturday, October 28","Saturday, October 28",Toledo,14,39,L,,agree,agree,,-1,2
+16,1951,"Saturday, October 27","Saturday, October 27",Bowling Green,12,6,W,,agree,agree,,1,3
+17,1952,"Saturday, October 25","Saturday, October 25",Toledo,19,29,L,,agree,agree,,-1,2
+18,1953,"Saturday, October 24","Saturday, October 24",Bowling Green,20,19,W,,agree,agree,,1,3
+19,1954,"Saturday, October 23","Saturday, October 23",Toledo,38,7,W,,agree,agree,,1,4
+20,1955,"Saturday, October 22","Saturday, October 22",Bowling Green,0,39,L,,agree,agree,,-1,3
+21,1956,"Saturday, October 20","Saturday, October 20",Toledo,12,34,L,,agree,agree,,-1,2
+22,1957,"Saturday, October 19","Saturday, October 19",Bowling Green,0,29,L,,agree,agree,,-1,1
+23,1958,"Saturday, October 18","Saturday, October 18",Toledo,16,31,L,,agree,agree,,-1,0
+24,1959,"Saturday, October 17","Saturday, October 17",Bowling Green,21,51,L,,agree,agree,,-1,-1
+25,1960,"Saturday, October 15","Saturday, October 15",Toledo,3,14,L,,agree,agree,,-1,-2
+26,1961,"Saturday, October 14","Saturday, October 14",Bowling Green,6,17,L,,agree,agree,,-1,-3
+27,1962,"Saturday, October 13","Saturday, October 13",Toledo,13,28,L,,agree,agree,,-1,-4
+28,1963,"Saturday, October 19","Saturday, October 19",Bowling Green,20,22,L,,agree,agree,,-1,-5
+29,1964,"Saturday, October 17","Saturday, October 17",Toledo,14,31,L,,agree,agree,,-1,-6
+30,1965,"Saturday, October 16","Saturday, October 16",Bowling Green,14,21,L,,agree,agree,,-1,-7
+31,1966,"Saturday, October 15","Saturday, October 15",Toledo,13,14,L,,agree,agree,,-1,-8
+32,1967,"Saturday, October 14","Saturday, October 14",Bowling Green,33,0,W,,agree,majority,site_UT_vs_BG;site_UT_vs_CFBD,1,-7
+33,1968,"Saturday, October 12","Saturday, October 12",Toledo,0,0,T,,agree,majority,site_UT_vs_CFBD,0,-7
+34,1969,"Friday, October 10","Saturday, October 11",Bowling Green,27,26,W,,agree,agree,date_UT_vs_BG,1,-6
+35,1970,"Saturday, October 10","Saturday, October 10",Toledo,20,0,W,,agree,agree,,1,-5
+36,1971,"Saturday, October 9","Saturday, October 9",Bowling Green,24,7,W,,agree,agree,,1,-4
+37,1972,"Saturday, October 7","Saturday, October 7",Toledo,8,19,L,,agree,agree,,-1,-5
+38,1973,"Saturday, October 6","Saturday, October 6",Bowling Green,35,49,L,,agree,agree,,-1,-6
+39,1974,"Saturday, October 5","Saturday, October 5",Toledo,24,19,W,,agree,agree,,1,-5
+40,1975,"Saturday, October 11","Saturday, October 11",Bowling Green,17,34,L,,agree,agree,,-1,-6
+41,1976,"Saturday, October 9","Saturday, October 9",Toledo,28,29,L,,agree,agree,,-1,-7
+42,1977,"Saturday, October 8","Saturday, October 8",Bowling Green,13,21,L,,agree,agree,,-1,-8
+43,1978,"Saturday, October 7","Saturday, October 7",Toledo,27,45,L,,agree,agree,,-1,-9
+44,1979,"Saturday, October 6","Saturday, October 6",Bowling Green,23,17,W,,agree,agree,,1,-8
+45,1980,"Saturday, October 11","Saturday, October 11",Toledo,6,17,L,,agree,agree,,-1,-9
+46,1981,"Saturday, October 24","Saturday, October 24",Bowling Green,0,38,L,,agree,majority,site_UT_vs_BG,-1,-10
+47,1982,"Saturday, October 23","Saturday, October 23",Toledo,24,10,W,,agree,agree,,1,-9
+48,1983,"Saturday, October 8","Saturday, October 8",Bowling Green,6,3,W,,agree,agree,,1,-8
+49,1984,"Saturday, October 6","Saturday, October 6",Toledo,17,6,W,,agree,agree,,1,-7
+50,1985,"Saturday, November 16","Saturday, November 16",Bowling Green,0,21,L,,agree,agree,,-1,-8
+51,1986,"Saturday, November 15","Saturday, November 15",Toledo,22,3,W,,agree,agree,,1,-7
+52,1987,"Saturday, October 17","Saturday, October 17",Bowling Green,6,20,L,,agree,agree,,-1,-8
+53,1988,"Saturday, September 24","Saturday, September 24",Toledo,34,5,W,,agree,agree,,1,-7
+54,1989,"Saturday, October 14","Saturday, October 14",Bowling Green,23,27,L,,agree,agree,,-1,-8
+55,1990,"Saturday, October 13","Saturday, October 13",Toledo,19,13,W,,agree,agree,,1,-7
+56,1991,"Saturday, October 19","Saturday, October 19",Bowling Green,21,24,L,,agree,agree,,-1,-8
+57,1992,"Saturday, October 17","Saturday, October 17",Toledo,9,10,L,,agree,agree,,-1,-9
+58,1993,"Saturday, October 2","Saturday, October 2",Bowling Green,10,17,L,,agree,agree,,-1,-10
+59,1994,"Saturday, October 15","Saturday, October 15",Toledo,16,31,L,,agree,agree,,-1,-11
+60,1995,"Saturday, October 21","Saturday, October 21",Bowling Green,35,16,W,,agree,agree,,1,-10
+61,1996,"Saturday, October 5","Saturday, October 5",Toledo,24,16,W,,agree,agree,,1,-9
+62,1997,"Saturday, October 25","Saturday, October 25",Bowling Green,35,20,W,,agree,agree,,1,-8
+63,1998,"Saturday, October 17","Saturday, October 17",Toledo,24,16,W,,agree,agree,,1,-7
+64,1999,"Saturday, October 2","Saturday, October 2",Bowling Green,23,34,L,,agree,agree,,-1,-8
+65,2000,"Wednesday, November 22","Wednesday, November 22",Toledo,51,17,W,,majority,agree,score_UT_vs_BG;score_BG_vs_CFBD,1,-7
+66,2001,"Friday, November 23","Friday, November 23",Bowling Green,21,56,L,,agree,agree,,-1,-8
+67,2002,"Saturday, November 30","Saturday, November 30",Toledo,42,24,W,,agree,agree,,1,-7
+68,2003,"Saturday, November 29","Saturday, November 29",Bowling Green,23,31,L,,agree,agree,,-1,-8
+69,2004,"Tuesday, November 23","Tuesday, November 23",Toledo,49,41,W,,agree,agree,,1,-7
+70,2005,"Tuesday, November 22","Tuesday, November 22",Bowling Green,44,41,W,,agree,agree,,1,-6
+71,2006,"Tuesday, November 21","Tuesday, November 21",Toledo,31,21,W,,agree,agree,,1,-5
+72,2007,"Friday, November 23","Friday, November 23",Bowling Green,10,37,L,,agree,agree,,-1,-6
+73,2008,"Friday, November 28","Friday, November 28",Toledo,10,38,L,,agree,agree,,-1,-7
+74,2009,"Friday, November 27","Friday, November 27",Bowling Green,24,38,L,,agree,agree,,-1,-8
+75,2010,"Wednesday, November 17","Wednesday, November 17",Toledo,33,14,W,,agree,agree,,1,-7
+76,2011,"Saturday, October 15","Saturday, October 15",Bowling Green,28,21,W,,agree,agree,,1,-6
+77,2012,"Saturday, September 15","Saturday, September 15",Toledo,27,15,W,,agree,agree,,1,-5
+78,2013,"Saturday, October 26","Saturday, October 26",Bowling Green,28,25,W,,agree,agree,,1,-4
+79,2014,"Wednesday, November 19","Wednesday, November 19",Toledo,27,20,W,,agree,agree,,1,-3
+80,2015,"Tuesday, November 17","Tuesday, November 17",Bowling Green,44,28,W,,agree,agree,,1,-2
+81,2016,"Saturday, October 15","Saturday, October 15",Toledo,42,35,W,,agree,agree,,1,-1
+82,2017,"Wednesday, November 15","Wednesday, November 15",Bowling Green,66,37,W,,agree,agree,,1,0
+83,2018,"Saturday, October 6","Saturday, October 6",Toledo,52,36,W,,agree,agree,,1,1
+84,2019,"Saturday, October 12","Saturday, October 12",Bowling Green,7,20,L,,agree,agree,,-1,0
+85,2020,"Wednesday, November 4","Wednesday, November 4",Toledo,38,3,W,,agree,agree,,1,1
+86,2021,"Wednesday, November 10","Wednesday, November 10",Bowling Green,49,17,W,,agree,agree,,1,2
+87,2022,"Tuesday, November 15","Tuesday, November 15",Toledo,35,42,L,,agree,agree,,-1,1
+88,2023,"Tuesday, November 14","Tuesday, November 14",Bowling Green,32,31,W,,agree,agree,,1,2
+89,2024,"Saturday, October 26","Saturday, October 26",Toledo,26,41,L,,agree,agree,,-1,1
+90,2025,"Saturday, October 11","Saturday, October 11",Bowling Green,23,28,L,,agree,agree,,-1,0

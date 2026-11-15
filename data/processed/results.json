@@ -1,0 +1,263 @@
+{
+  "series": {
+    "record": "43-43-4",
+    "games": 90,
+    "ut_pts": 1930,
+    "bg_pts": 1907,
+    "ut_home": "24-19-2",
+    "ut_away": "19-24-2",
+    "max_ut_lead": 4,
+    "max_bg_lead": 11,
+    "season_max_ut": 1954,
+    "season_max_bg": 1994,
+    "home_team": {
+      "wins": 48,
+      "decisions": 86,
+      "pct": 0.558,
+      "ci95": [
+        0.453,
+        0.658
+      ],
+      "binom_p": 0.332,
+      "if_1924_at_toledo": 49
+    },
+    "streaks": {
+      "observed_runs": 40,
+      "expected_runs": 44.0,
+      "p_fewer_runs": 0.2263,
+      "longest_ut": 9,
+      "longest_bg": 12,
+      "p_any_run_ge_12": 0.008,
+      "p_any_run_ge_9": 0.098,
+      "note": "Permutation test on decided games in order; ties dropped."
+    }
+  },
+  "eras": [
+    {
+      "label": "Before a trophy",
+      "years": "1919-1979",
+      "games": 44,
+      "record": "16-24-4",
+      "ut_pts": 714,
+      "bg_pts": 803,
+      "avg_total": 34.5
+    },
+    {
+      "label": "Peace Pipe trophy",
+      "years": "1980-2010",
+      "games": 31,
+      "record": "16-15-0",
+      "ut_pts": 692,
+      "bg_pts": 705,
+      "avg_total": 45.1
+    },
+    {
+      "label": "Battle of I-75 trophy",
+      "years": "2011-2025",
+      "games": 15,
+      "record": "11-4-0",
+      "ut_pts": 524,
+      "bg_pts": 399,
+      "avg_total": 61.5
+    }
+  ],
+  "toss": {
+    "games_with_toss": 26,
+    "toss_winner_deferred": 22,
+    "took_ball": [
+      {
+        "season": 2004,
+        "toss_winner": "BG"
+      },
+      {
+        "season": 2007,
+        "toss_winner": "BG"
+      },
+      {
+        "season": 2009,
+        "toss_winner": "UT"
+      },
+      {
+        "season": 2015,
+        "toss_winner": "BG"
+      }
+    ],
+    "toss_winner_won": 13,
+    "ut_won_toss": 11,
+    "bg_won_toss": 15,
+    "recv2h": {
+      "wins": 16,
+      "games": 27,
+      "pct": 0.593,
+      "ci95": [
+        0.407,
+        0.755
+      ],
+      "binom_p": 0.442
+    },
+    "home_in_same_games": {
+      "wins": 17,
+      "games": 27,
+      "pct": 0.63
+    },
+    "UT_deferred": {
+      "games": 10,
+      "ut_record": "7-3",
+      "seasons": [
+        1999,
+        2005,
+        2008,
+        2012,
+        2013,
+        2016,
+        2017,
+        2019,
+        2020,
+        2021
+      ]
+    },
+    "BG_deferred": {
+      "games": 12,
+      "ut_record": "7-5",
+      "seasons": [
+        2001,
+        2002,
+        2003,
+        2006,
+        2010,
+        2011,
+        2014,
+        2018,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "fisher_ut_defer_vs_bg_defer": {
+      "table": [
+        [
+          7,
+          3
+        ],
+        [
+          7,
+          5
+        ]
+      ],
+      "p": 0.675
+    },
+    "min_detectable_effect_pp": 26.9
+  },
+  "league": {
+    "seasons": "2014-2025",
+    "games": 8310,
+    "balance": {
+      "mean_r2_spread": -0.22,
+      "share_r2_home": 0.492,
+      "note": "If 2H receivers were systematically better teams this would be far from 0. A coin decides it, so it should be ~0."
+    },
+    "raw_win_pct": 0.5035,
+    "raw_ci95": [
+      0.493,
+      0.514
+    ],
+    "spread_adjusted_pp": -0.15,
+    "spread_adjusted_ci_pp": [
+      -1.45,
+      1.16
+    ],
+    "spread_adjusted_p": 0.826,
+    "pts_vs_spread": -0.17,
+    "pts_vs_spread_ci": [
+      -0.51,
+      0.15
+    ],
+    "pts_vs_spread_p": 0.312,
+    "by_season": {
+      "2014": 0.491,
+      "2015": 0.523,
+      "2016": 0.497,
+      "2017": 0.469,
+      "2018": 0.495,
+      "2019": 0.537,
+      "2020": 0.531,
+      "2021": 0.511,
+      "2022": 0.475,
+      "2023": 0.499,
+      "2024": 0.488,
+      "2025": 0.532
+    },
+    "win_pct_points_ok_subset": {
+      "games": 5545,
+      "pct": 0.51
+    },
+    "win_pct_excl_2020": 0.5017,
+    "middle_eight": {
+      "games": 5545,
+      "mean_diff": 0.93,
+      "ci95": [
+        0.75,
+        1.11
+      ],
+      "recv2h_scored_first_q3_drive": 0.36
+    },
+    "games_needed_80pct_power": 78400
+  },
+  "rivalry_middle_eight": [
+    {
+      "season": 2009,
+      "recv_2h": "Bowling Green",
+      "m8_recv2h": 0,
+      "m8_other": 7
+    },
+    {
+      "season": 2012,
+      "recv_2h": "Toledo",
+      "m8_recv2h": 7,
+      "m8_other": 3
+    },
+    {
+      "season": 2013,
+      "recv_2h": "Toledo",
+      "m8_recv2h": 0,
+      "m8_other": 7
+    },
+    {
+      "season": 2015,
+      "recv_2h": "Toledo",
+      "m8_recv2h": 7,
+      "m8_other": 14
+    },
+    {
+      "season": 2018,
+      "recv_2h": "Bowling Green",
+      "m8_recv2h": 0,
+      "m8_other": 0
+    },
+    {
+      "season": 2019,
+      "recv_2h": "Toledo",
+      "m8_recv2h": 0,
+      "m8_other": 0
+    },
+    {
+      "season": 2020,
+      "recv_2h": "Toledo",
+      "m8_recv2h": 0,
+      "m8_other": 0
+    },
+    {
+      "season": 2022,
+      "recv_2h": "Bowling Green",
+      "m8_recv2h": 3,
+      "m8_other": 7
+    },
+    {
+      "season": 2023,
+      "recv_2h": "Bowling Green",
+      "m8_recv2h": 7,
+      "m8_other": 7
+    }
+  ]
+}
